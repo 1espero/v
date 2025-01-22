@@ -7,7 +7,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f8f9fa;
+    background-color: #060c12;
     position: relative;
     z-index: 1;
     
@@ -31,7 +31,7 @@ body {
  body {
     margin: 0;
     font-family: Arial, sans-serif;
-    color: white;
+    color: rgb(246, 246, 247);
 }
 
 /* Background video */
@@ -98,7 +98,7 @@ header h1 {
 /* Contact Info */
 .contact-info {
     background-color: rgba(6, 1, 11, 0.8);
-    color: white;
+    color: rgb(231, 230, 237);
     padding: 20px;
     text-align: center;
     margin-top: 40px;
@@ -662,7 +662,7 @@ body {
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f8f9fa;
+    background-color: #040d16;
     position: relative;
     z-index: 1;
 }
